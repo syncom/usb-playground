@@ -12,7 +12,7 @@ Started](https://www.pjrc.com/teensy/first_use.html) to install the
 Teensy Loader program for programming the board. Software that run on
 the board can be written in C (see [The GCC Compiler and
 Tools](https://www.pjrc.com/teensy/gcc.html)) or Arduino with
-Teensyduino (see [Totorial 1: Software
+Teensyduino (see [Tutorial 1: Software
 Setup](https://www.pjrc.com/teensy/tutorial.html)). I generally prefer
 the latter method, which is easier for starters.
 
